@@ -17,7 +17,7 @@
 ### 基本方法
 
 - 如何划分训练集？如何选取验证集？
-- 什么是偏差和方差？
+- [什么是偏差和方差？](https://github.com/buki26/InterviewQuestions/blob/master/answers/%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE.md)
 - 什么是过拟合？深度学习解决过拟合的方法有哪
 - 解决欠拟合的方法有哪些？
 - 深度模型参数调整的一般方法论？
