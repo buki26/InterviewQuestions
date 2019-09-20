@@ -9,7 +9,7 @@
 ### 模型评估方法
 
 - [Accuracy 作为指标有哪些局限性？](https://github.com/buki26/InterviewQuestions/blob/master/answers/Accuracy%20%E4%BD%9C%E4%B8%BA%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87%E7%9A%84%E5%B1%80%E9%99%90%E6%80%A7.md)
-- ROC 曲线和 PR 曲线各是什么？
+- [ROC 曲线和 PR 曲线各是什么？](https://github.com/buki26/InterviewQuestions/blob/master/answers/ROC%E5%92%8CPR%E6%9B%B2%E7%BA%BF.md)
 - 编程实现 AUC 的计算，并指出复杂度？
 - AUC 指标有什么特点？放缩结果对 AUC 是否有影响？
 - 余弦距离与欧式距离有什么特点？
