@@ -12,7 +12,7 @@
 - [ROC 曲线和 PR 曲线各是什么？](https://github.com/buki26/InterviewQuestions/blob/master/answers/ROC%E5%92%8CPR%E6%9B%B2%E7%BA%BF.md)
 - 编程实现 AUC 的计算，并指出复杂度？
 - AUC 指标有什么特点？放缩结果对 AUC 是否有影响？
-- 余弦距离与欧式距离有什么特点？
+- [余弦距离与欧式距离有什么特点？](https://github.com/buki26/InterviewQuestions/blob/master/answers/%E6%AC%A7%E5%BC%8F%E8%B7%9D%E7%A6%BB%E4%B8%8E%E4%BD%99%E5%BC%A6%E8%B7%9D%E7%A6%BB.md)
 
 ### 基本方法
 
