@@ -26,7 +26,7 @@
 
 - 简述了解的优化器，发展综述？
 - 常用的损失函数有哪些？分别适用于什么场景？
-- 梯度下降与拟牛顿法的异同？
+- [梯度下降与拟牛顿法的异同？](https://github.com/buki26/InterviewQuestions/blob/master/answers/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E4%B8%8E%E6%8B%9F%E7%89%9B%E9%A1%BF%E6%B3%95%E7%9A%84%E5%BC%82%E5%90%8C.md)
 - L1 和 L2 正则分别有什么特点？为何 L1 稀疏？
 
 ### 深度学习基础
