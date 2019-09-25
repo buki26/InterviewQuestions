@@ -33,7 +33,7 @@
 
 - 以一层隐层的神经网络，relu 激活，MSE 作为损失函数推导反向传播
 - NN 的权重参数能否初始化为 0？
-- 什么是梯度消失和梯度爆炸？
+- [什么是梯度消失和梯度爆炸？](https://github.com/buki26/InterviewQuestions/blob/master/answers/%E6%A2%AF%E5%BA%A6%E6%B6%88%E5%A4%B1%E5%92%8C%E6%A2%AF%E5%BA%A6%E7%88%86%E7%82%B8.md)
 - 常用的激活函数，导数？
 - relu 的有优点？又有什么局限性？他们的系列改进方法是啥？
 - sigmoid 和 tanh 为什么会导致梯度消失？
