@@ -39,7 +39,7 @@
 - sigmoid 和 tanh 为什么会导致梯度消失？
 - 一个隐层需要多少节点能实现包含 n 元输入的任意布尔函数？
 - 多个隐层实现包含 n 元输入的任意布尔函数，需要多少节点和网络层？
-- dropout 为何能防止过拟合？
+- [dropout 为何能防止过拟合？](https://github.com/buki26/InterviewQuestions/blob/master/answers/dropout%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E9%98%B2%E6%AD%A2%E8%BF%87%E6%8B%9F%E5%90%88.md)
 - dropout 和 BN 在前向传播和方向传播阶段的区别？
 
 ### CNN
