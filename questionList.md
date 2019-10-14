@@ -35,7 +35,7 @@
 - NN 的权重参数能否初始化为 0？
 - [什么是梯度消失和梯度爆炸？](https://github.com/buki26/InterviewQuestions/blob/master/answers/%E6%A2%AF%E5%BA%A6%E6%B6%88%E5%A4%B1%E5%92%8C%E6%A2%AF%E5%BA%A6%E7%88%86%E7%82%B8.md)
 - 常用的激活函数，导数？
-- relu 的有优点？又有什么局限性？他们的系列改进方法是啥？
+- [relu 的有优点？又有什么局限性？他们的系列改进方法是啥？](https://github.com/buki26/InterviewQuestions/blob/master/answers/relu%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9%E5%8F%8A%E6%94%B9%E8%BF%9B%E6%96%B9%E6%B3%95.md)
 - sigmoid 和 tanh 为什么会导致梯度消失？
 - 一个隐层需要多少节点能实现包含 n 元输入的任意布尔函数？
 - 多个隐层实现包含 n 元输入的任意布尔函数，需要多少节点和网络层？
