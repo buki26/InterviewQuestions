@@ -73,7 +73,7 @@
 ### 集成学习
 
 - 集成学习的分类？有什么代表性的模型和方法？
-- 如何从偏差和方差的角度解释 bagging 和 boosting 的原理？
+- [如何从偏差和方差的角度解释 bagging 和 boosting 的原理？](https://github.com/buki26/InterviewQuestions/blob/master/answers/%E5%AF%B9%E4%BA%8Ebagging%E3%80%81boosting%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE%E7%9A%84%E7%90%86%E8%A7%A3.md)
 - GBDT 的原理？和 Xgboost 的区别联系？
 - adaboost 和 gbdt 的区别联系？
 
