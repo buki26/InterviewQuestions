@@ -25,7 +25,7 @@
 ### 优化方法
 
 - 简述了解的优化器，发展综述？
-- 常用的损失函数有哪些？分别适用于什么场景？
+- [常用的损失函数有哪些？分别适用于什么场景？](https://github.com/buki26/InterviewQuestions/blob/master/answers/%E5%B8%B8%E8%A7%81%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E5%8F%8A%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF.md)
 - [梯度下降与拟牛顿法的异同？](https://github.com/buki26/InterviewQuestions/blob/master/answers/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E4%B8%8E%E6%8B%9F%E7%89%9B%E9%A1%BF%E6%B3%95%E7%9A%84%E5%BC%82%E5%90%8C.md)
 - L1 和 L2 正则分别有什么特点？为何 L1 稀疏？
 
