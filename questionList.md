@@ -46,7 +46,7 @@
 
 - 给定卷积核的尺寸，特征图大小计算方法？
 - 网络容量计算方法
-- 共享参数有什么优点
+- [共享参数有什么优点](https://github.com/buki26/InterviewQuestions/blob/master/answers/cnn%E5%85%B1%E4%BA%AB%E5%8F%82%E6%95%B0%E7%9A%84%E4%BC%98%E7%82%B9.md)
 - 常用的池化操作有哪些？有什么特点？
 - CNN 如何用于文本分类？
 - resnet 提出的背景和核心理论是？
